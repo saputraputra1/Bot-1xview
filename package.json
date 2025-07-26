@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-viewonce-bot",
+  "version": "1.0.0",
+  "main": "viewOnceBot.js",
+  "dependencies": {
+    "whatsapp-web.js": "^1.25.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
